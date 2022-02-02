@@ -4,6 +4,9 @@
 # Src Links
 - https://cloudinary.com/documentation/react_quick_start#landingpage
 - https://snipcart.com/blog/react-ecommerce-tutorial
+- https://github.com/basir/amazona
+- https://dev.to/basir/react-ecommerce-project-2021-in-9-hours-21n7
+- https://blog.logrocket.com/react-stripe-payment-system-tutorial/
 
 ---
 
